@@ -1,0 +1,14 @@
+Basic git commands:-
+
+1) git add [file] - add a file to the repo 
+2) git commit -m " " - commit your changes or staged content
+3) git push - push changes from the local branch to the main or to the remote repository
+4) git pull - fetch or merge any commits from the remote branch
+5) git checkout [branch-name] - checkout of the current branck and switch to the specified branch. 
+6) git branch - lists all the branches and highlights the current one you are in.
+7) git status - show the modified changes or files in the working directory.
+8) git merge [brnach-name] - merge the specified branch's history into the current one.
+9) git clone - copy the whole main repo into a the hosted location using the url.
+10) git stash - save modified and staged changes
+11) git rebase [branch] - the process of moving or combining a sequence of commits to a new base commit.
+12) git log - show the commit history from the current/ active branch
