@@ -13,4 +13,5 @@ public class Factorial
 		return result;
 	}
 }
-//reviewed and commented byt userfour
+//reviewed and commented by userfour
+//reviewed and tested with the code with the test cases.
