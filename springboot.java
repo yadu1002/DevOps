@@ -13,7 +13,7 @@ public class Factorial
 		return result;
 	}
 }
-//comment added by userfour and some java code added
+//added by userfour and some java code added
 public class CallingMethodsInSameClass
 {
 	public static void main(String[] args) {
@@ -30,4 +30,4 @@ public class CallingMethodsInSameClass
 		printOne();
 		printOne();
 	}
-}
+
